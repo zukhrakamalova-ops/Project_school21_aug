@@ -1,2 +1,3 @@
 my_project
-authour Zukhra
+author Zukhra
+Я работаю в новой ветке и ничего не боюсь.
